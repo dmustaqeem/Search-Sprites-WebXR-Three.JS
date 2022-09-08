@@ -1,0 +1,156 @@
+{
+    "score" : "0",
+    
+    "tuktuk":{
+        "name": "tuktuk",
+        "textureLoc" : "./Images/tuktuk_sprite.png",
+        "size" : "1",
+        "number" : "3",
+        "delay" : "100",
+        "disappearSound" : "blink_sprite.png",
+        "disappearSprite" : "Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "bts":{
+        "name": "bts",
+        "textureLoc" :"./Images/BTS_Prite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "bus":{
+        "name": "bus",
+        "textureLoc" : "./Images/bus_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "china":{
+        "name": "china",
+        "textureLoc" : "./Images/china_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "chinaXH":{
+        "name": "chinaXH",
+        "textureLoc" : "./Images/chingxha.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "nangkag":{
+        "name": "nangkag",
+        "textureLoc" : "./Images/nangkag_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "radio":{
+        "name": "radio",
+        "textureLoc" : "./Images/radio_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "yakk":{
+        "name": "yakk",
+        "textureLoc" : "./Images/yak_keaw_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "yakw":{
+        "name": "yakw",
+        "textureLoc" : "./Images/Yak_white_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/blink_sprite.png",
+        "disappearSprite" : "./Images/Win.mp3",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    },
+    "yim":{
+        "name": "yim",
+        "textureLoc" : "./Images/yim_sprite.png",
+        "size" : "1",
+        "number" : "1",
+        "delay" : "100",
+        "disappearSound" : "./Images/Bomb.mp3",
+        "disappearSprite" : "./Images/bomb_sprite.png",
+        "texture" : {
+            "horizontal" : "15",
+            "vertical" : "1",
+            "total" : "15",
+            "duration" : "50"
+        }
+    }
+    
+
+}
